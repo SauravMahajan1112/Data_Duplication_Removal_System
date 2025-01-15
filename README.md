@@ -2,7 +2,7 @@
 
 ---
 
-## 📊 Overview
+## 🗊 Overview
 This project implements a **cloud-based file handling system** that optimizes storage and manages file duplication using **MD5 hashing**. Files are uploaded, verified for duplication, and stored efficiently to reduce redundancy. This solution enhances file management, ensures data uniqueness, and optimizes storage utilization.
 
 ---
@@ -65,7 +65,7 @@ This project implements a **cloud-based file handling system** that optimizes st
 
 ---
 
-## 🔄 Usage
+## 👍 Usage
 
 1. Navigate to the **Home Page** to view project information.
 2. Sign up for a new account or log in with existing credentials.
@@ -74,6 +74,19 @@ This project implements a **cloud-based file handling system** that optimizes st
    - Similar files are analyzed and compared.
 4. Download or delete stored files as needed.
 5. View file similarity metrics and visualizations.
+
+---
+
+## 🗊 Screenshots
+
+### Login Page
+![Login Page](WhatsApp%20Image%202025-01-13%20at%2021.52.27_32b422c4.jpg)
+
+### File Upload Success
+![File Upload Success](WhatsApp%20Image%202025-01-13%20at%2021.54.33_d5582e95.jpg)
+
+### Similarity Analysis
+![Similarity Analysis](WhatsApp%20Image%202025-01-13%20at%2021.55.37_cb5f7531.jpg)
 
 ---
 
@@ -98,7 +111,7 @@ Contributions are welcome! To contribute:
 
 ---
 
-## 📄 License
+## 🔖 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
