@@ -80,13 +80,15 @@ This project implements a **cloud-based file handling system** that optimizes st
 ## 🗊 Screenshots
 
 ### Login Page
-![Login Page](WhatsApp%20Image%202025-01-13%20at%2021.52.27_32b422c4.jpg)
+![WhatsApp Image 2025-01-13 at 21 52 27_32b422c4](https://github.com/user-attachments/assets/27a53ffe-5574-439e-a13d-1f4ecb53465a)
 
 ### File Upload Success
-![File Upload Success](WhatsApp%20Image%202025-01-13%20at%2021.54.33_d5582e95.jpg)
+![WhatsApp Image 2025-01-13 at 21 54 33_d5582e95](https://github.com/user-attachments/assets/090c3342-91a3-4981-85d5-823a1d65648c)
+
 
 ### Similarity Analysis
-![Similarity Analysis](WhatsApp%20Image%202025-01-13%20at%2021.55.37_cb5f7531.jpg)
+
+![WhatsApp Image 2025-01-13 at 21 56 41_abb25c2a](https://github.com/user-attachments/assets/47b77306-17b9-4305-b51a-ce60c2ba8324)
 
 ---
 
